@@ -174,7 +174,7 @@ nav a button:hover {
 .hero .join {
     padding: 0.4rem 1.3rem;
     border-radius: 19px;
-    background-image: linear-gradient(to right, rgb(53, 223, 67), rgb(35, 208, 136), rgb(10, 203, 139));
+    background-image: linear-gradient(to right, rgb(53, 223, 67), rgb(109, 221, 174), rgb(10, 203, 139));
     font-weight: 550;
     color: white;
     box-shadow: 1px 4px 10px rgb(148, 248, 178);
